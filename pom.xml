@@ -26,7 +26,7 @@
         <!-- endregion -->
         <h2.version>1.4.200</h2.version>
         <HikariCP.version>3.4.1</HikariCP.version>
-        <hibernate-core.version>5.4.4.Final</hibernate-core.version>
+        <hibernate-core.version>5.4.24.Final</hibernate-core.version>
         <log4j.version>2.13.3</log4j.version>
         <postgresql.version>42.2.9</postgresql.version>
         <testcontainers.version>1.12.4</testcontainers.version>
